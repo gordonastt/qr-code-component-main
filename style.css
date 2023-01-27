@@ -90,7 +90,6 @@ body{
 }
 @media (max-width:1300px) {
     .principal-content{
-        background-color: black;
         max-width: 25%;
         min-width: 25%;
         max-height:60%;
