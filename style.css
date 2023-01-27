@@ -106,7 +106,16 @@ body{
         
     }
 }
-@media (max-width:900px) {
+@media (max-width:800px) {
+    .principal-content{
+        max-width: 60%;
+        min-width: 60%;
+        max-height:60%;
+        min-height: 40%;
+        
+    }
+}
+@media (max-width:500px) {
     .principal-content{
         max-width: 90%;
         min-width: 90%;
